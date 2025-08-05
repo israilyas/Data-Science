@@ -7,6 +7,14 @@
 5- Name box => name of cell
 ---
 
+### AutoCorrect
+
+file > settings > proofing > Autocorrect
+
+#### Formate painter
+- to apply same formate to other cells
+
+## Formating numbers & date
 
 
 --- 
@@ -21,4 +29,7 @@ esc => to exit selection mode
 copy pase => hold ctrl and drag
 ctrl + N => create New workbook 
 ctrl + pageUp/pagedown => navidate into sheet of same workbook
+ctrl + H => Find and replace
+ctrl + 1 => formate setting dialog box
+ctrl + alt + v => paste special
 
