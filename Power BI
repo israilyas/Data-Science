@@ -1,7 +1,7 @@
 # Power BI => Data Visualization & Business intelligence Tool & Interactive Dashboard/Chart
 
 ### Why we are using Power BI intead of matplotlib or seaborn llibrary?
-Graphs provided b matplotlib and seaborn are quite basic
-but here we are not only plotting the graph it sees data and give some insights that matplotlib and seaborn can not give     
+- Graphs provided b matplotlib and seaborn are quite basic
+- but here we are not only plotting the graph it sees data and give some insights that matplotlib and seaborn can not give     
 
 
